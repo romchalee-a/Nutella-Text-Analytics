@@ -1,10 +1,4 @@
----
-layout: post
-title: Nutella - Text Analytics | R 
-tags: Nutella - Text Analytics, R
-excerpt: Design a survey and conduct NLP with frameworks to perform sentiment analysis, word relationship and provide data-driven strategic recommendations for developing Nutella’s marketing strategy
-categories: demo
----
+#Nutella - Text Analytics
 
 **Part 1 Business Insight Report**
 
