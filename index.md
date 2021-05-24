@@ -4,32 +4,32 @@ Nutella - Text Analytics | R
 
 **Introduction**
 
-Nutella Project is aiming to analyze how people purchase Nutella and to drive actionable recommendations for future marketing approaches. The project initiated by designing a survey about morning routines, how people get to work, and how their perfect days look like. In the end, the survey would ask if the participant would buy Nutella or not. The survey was run across 34 people of diverse backgrounds. For the overview finding of this survey, Nutella indeed is a very likable product, 74% of respondents said that they would buy Nutella. 
+Nutella Project aimed to analyze how people purchase Nutella and to drive actionable recommendations for future marketing approaches. The project initiated by designing a survey about morning routines, how people get to work, and how their perfect days look like. In the end, the survey would ask if the participant would buy Nutella or not. The survey was run across 34 people of diverse backgrounds. For the overview finding of this survey, Nutella indeed is a very likable product, 74% of respondents said that they would buy Nutella.
 
 **Text Analytics Frameworks**
 
-This project using an R programming language to conducted text analytics along with analyzing word frequency, word relationship, and sentiment analysis. Frameworks applying in this analysis are consist of Correlogram, Sentiment Analysis, N-gram, and Pairwise Correlation. 
+This project was applied the R programming language to conducted text analytics along with analyzing word frequency, word relationship, and sentiment analysis. Frameworks applied in this analysis were consist of Correlogram, Sentiment Analysis, N-gram, and Pairwise Correlation.
 
 **1.	Correlogram**
-Goal: find keywords for business failure and success
+Goal: to find keywords for business failure and success
 Insights:
 -	business failure keywords: Hungry, cooking, bar 
 -	business success keyword: cheat, morning 
 
 **2.	Sentiment analysis** 
-Goal: find specific keywords of business success with underlining sentiment 
+Goal: to find specific keywords of business success with underlining sentiment 
 Insights:
 -	words associated with joy: perfect, beach, sunny 
 -	words associated with sadness: bad, late, feeling
 
 **3.	N-gram**
-Goal: find phrases that stand out for the business success group
+Goal: to find phrases that stand out for the business success group
 Insights: Outstanding phrases
 -	Chocolate, greasy, stuff, hamburgers, fries 
 -	Glazed, banana, whipped 
 
 **4.	Pairwise Correlation/ Correlation Network**
-Goal: find high correlated words for the business success group
+Goal: to find high correlated words for the business success group
 Insights: keywords with high correlation
 -	Cereal milk 
 -	Pizza chocolate  
