@@ -1,3 +1,5 @@
+[Projects](https://romchalee-a.github.io/portfolio/)
+
 Nutella - Text Analytics | R
 
 **Part 1 Business Insight Report**
