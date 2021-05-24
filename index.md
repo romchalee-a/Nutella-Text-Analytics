@@ -43,7 +43,7 @@ Based on the result of the frameworks, they are leading to the final four recomm
 **1.	Refine target audience**
 Nutella should refine their target audience not to target people who are more likely to be into cooking at home and like to go to bars but instead target people who are into cheat meals like gym addicts or target people who are busy young adults by recommending Nutella as a fast and easy snack.
 
-**2.	Introducing new product lines and Increase exposure on social media**
+**2.	Introducing new product lines and increase exposure on social media**
 -	Nutella could expand its product line with more distinct flavor combinations such as Nutella Cereal.  
 -	Increase exposure on social media by leveraging trendy food hashtags #pizzanutella #nutelladay #pizzanutellabanana 
 -	Introducing a different recipe with Nutella for the tiny jars collection (QR code recipe)
