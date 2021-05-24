@@ -1,12 +1,12 @@
-**Nutella - Text Analytics | R** 
+#Nutella - Text Analytics | R
 
-**Part 1 Business Insight Report**
+##Part 1 Business Insight Report
 
-**Introduction**
+###Introduction**
 
 Nutella Project is aiming to analyze how people purchase Nutella and to drive actionable recommendations for future marketing approaches. The project initiated by designing a survey about morning routines, how people get to work, and how their perfect days look like. In the end, the survey would ask if the participant would buy Nutella or not. The survey was run across 34 people of diverse backgrounds. For the overview finding of this survey, Nutella indeed is a very likable product, 74% of respondents said that they would buy Nutella. 
 
-**Text Analytics Frameworks**
+###Text Analytics Frameworks
 
 This project using an R programming language to conducted text analytics along with analyzing word frequency, word relationship, and sentiment analysis. Frameworks applying in this analysis are consist of Correlogram, Sentiment Analysis, N-gram, and Pairwise Correlation. 
 
@@ -34,7 +34,7 @@ Insights: keywords with high correlation
 -	Cereal milk 
 -	Pizza chocolate  
 
-**Recommendations**
+###Recommendations
 
 Based on the result of the frameworks, they are leading to the final four recommendations for Nutella.
 
@@ -51,9 +51,9 @@ With a phrase like ‘chocolate, greasy, hamburgers, and fries’ we recommend a
 
 The present for this project can be watched via this link: [Nutella Project Presentation](https://www.youtube.com/watch?v=vQFuouPmwMA)
 
-**Part 2: R Code**
+##Part 2: R Code###
 
-**R Programming: Frameworks Analysis**
+###R Programming: Frameworks Analysis###
 
 **PREPARE DATA - TOKENIZATION**
 ```
