@@ -41,17 +41,21 @@ Insights: keywords with high correlation
 Based on the result of the frameworks, they are leading to the final four recommendations for Nutella.
 
 **1.	Refine target audience**
+
 Nutella should refine their target audience not to target people who are more likely to be into cooking at home and like to go to bars but instead target people who are into cheat meals like gym addicts or target people who are busy young adults by recommending Nutella as a fast and easy snack.
 
 **2.	Introducing new product lines and increase exposure on social media**
+
 -	Nutella could expand its product line with more distinct flavor combinations such as Nutella Cereal.  
 -	Increase exposure on social media by leveraging trendy food hashtags #pizzanutella #nutelladay #pizzanutellabanana 
 -	Introducing a different recipe with Nutella for the tiny jars collection (QR code recipe)
 
 **3.	Revamping old campaigns**
+
 Nutella should avoid using words with sad sentiment in any future marketing campaign. Instead, Nutella can adopt joyful keywords in campaigns to revamp and further develop the old campaigns ‘wake up with Nutella campaign’ & ‘morning campaign’ to include a narrative story of a perfect “sunny day” to spend time on the “beach” and having a taste of sweet chocolate and hazelnut.
 
 **4.	Tapping into themed/ seasonal celebrations for greater benefits**
+
 With a phrase like ‘chocolate, greasy, hamburgers, and fries’ we recommend a partnership with (any) fast-food chain to cross-sell by including Nutella to their menu. For example, Nutella can partner with McDonald's by adding Nutella to a happy meal or providing a new food pair like fries with Nutella dip. With a phrase like ‘glazed banana whipped’, we recommend launching a Valentine’s Day-themed campaign appealing towards the sentiment of joy and celebration with a bold theme for example Nutella can launch a new packaging design with the tag of ‘Bae-up with Nutella’ and ‘Breakup with Nutella’.
 
 The present for this project can be watched via this link: [Nutella Project Presentation](https://www.youtube.com/watch?v=vQFuouPmwMA)
